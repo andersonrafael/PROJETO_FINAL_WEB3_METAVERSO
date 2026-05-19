@@ -9,7 +9,6 @@
 ## 👤 FRANCISCO ANDERSON RAFAEL DA SILVA
 
 **FRANCISCO ANDERSON RAFAEL DA SILVA**  
-*(Este campo também será preenchido no arquivo de envio na plataforma Homero)*
 
 ---
 
