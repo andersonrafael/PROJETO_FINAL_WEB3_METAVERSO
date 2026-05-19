@@ -6,9 +6,9 @@
 
 ---
 
-## 👤 Nome Completo do(a) Aluno(a)
+## 👤 FRANCISCO ANDERSON RAFAEL DA SILVA
 
-**[SEU NOME COMPLETO AQUI]**  
+**[FRANCISCO ANDERSON RAFAEL DA SILVA]**  
 *(Este campo também será preenchido no arquivo de envio na plataforma Homero)*
 
 ---
@@ -205,3 +205,4 @@ MuseuVirtualMeta/
 ---
 
 *Projeto desenvolvido como atividade avaliativa do curso Web 3.0 — Residência em TIC 29.*
+TODOS OS DIREITOS RESERVADOS A FRANCISCO ANDERSON RAFAEL DA SILVA
