@@ -1,0 +1,57 @@
+# ======================
+# Unity .gitignore
+# Projeto: MuseuVirtualMeta
+# ======================
+
+# Pasta de cache compilado — gerada automaticamente pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Arquivos de memória do VisualStudio
+/.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Asset meta arquivos gerados automaticamente (necessários fora do Prefabs/Scripts)
+# Mantenha os metas de Assets/Scripts e Assets/Prefabs versionados
+
+# Arquivos de cache Android
+/[Aa]ssets/[Ss]tream[Ii]ng[Aa]ssets/aa/Android
+
+# Build de APK local
+*.apk
+*.aab
+
+# IL2CPP outputs
+/[Ii][Ll]2[Cc]pp*/
+
+# Backups e temporários do editor
+*~
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini

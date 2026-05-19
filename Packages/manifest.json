@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "com.meta.xr.sdk.all": "74.0.0",
+    "com.unity.inputsystem": "1.8.1",
+    "com.unity.xr.interaction.toolkit": "3.0.7",
+    "com.unity.xr.management": "4.4.0",
+    "com.unity.xr.openxr": "1.12.0",
+    "com.unity.render-pipelines.universal": "17.0.3",
+    "com.unity.probuilder": "6.0.4",
+    "com.unity.textmeshpro": "3.0.9",
+    "com.unity.timeline": "1.8.7",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.feature.development": "1.0.1",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Meta XR SDK",
+      "url": "https://npm.developer.oculus.com/",
+      "scopes": [
+        "com.meta.xr"
+      ]
+    }
+  ]
+}
